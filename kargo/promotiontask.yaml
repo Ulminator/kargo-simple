@@ -10,7 +10,7 @@ spec:
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/Ulminator/guestbook
+    value: ghcr.io/ulminator/guestbook
   - name: openpr
     value: "false"
   steps:

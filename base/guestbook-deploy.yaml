@@ -14,7 +14,7 @@ spec:
         app: guestbook-simple
     spec:
       containers:
-      - image: ghcr.io/Ulminator/guestbook:latest
+      - image: ghcr.io/ulminator/guestbook:latest
         name: guestbook-simple
         ports:
         - name: http

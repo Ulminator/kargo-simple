@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/Ulminator/guestbook
+      repoURL: ghcr.io/ulminator/guestbook
       imageSelectionStrategy: SemVer
